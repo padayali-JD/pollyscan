@@ -1,5 +1,5 @@
 # Pollyscan-CVE-2024-38526-Vulnerability Scanner
-A specialized vulnerability scanner designed to detect CVE-2024-38526, the Polyfill.io Supply Chain Attack, helping organizations identify and mitigate risks associated with compromised third-party dependencies. 
+It is a lightweight security tool designed to detect CVE-2024-38526, the Polyfill.io Supply Chain Attack. It scans web dependencies for malicious injections & automated detection.
 
 # Installation
 git clone https://github.com/padayali-JD/pollyscan.git
