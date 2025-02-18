@@ -3,6 +3,7 @@ It is a lightweight security tool designed to detect CVE-2024-38526, the Polyfil
 
 # Installation
 git clone https://github.com/padayali-JD/pollyscan.git
+
 cd pollyscan
 
 # Usage
